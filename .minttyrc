@@ -1,0 +1,13 @@
+BoldAsFont=-1
+ThemeFile=flat-ui
+Font=Consolas
+FontHeight=14
+FontWeight=700
+FontIsBold=yes
+Language=zh_CN
+RightClickAction=menu
+ClicksPlaceCursor=no
+ComposeKey=off
+Locale=zh_CN
+Charset=UTF-8
+Columns=90
