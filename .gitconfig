@@ -3,6 +3,7 @@
 	email = 476212964@qq.com
 [core]
 	editor = code -w
+	autocrlf = true
 [alias]
 	logg = log --graph --pretty=oneline --abbrev-commit
 	logs = log --abbrev-commit
