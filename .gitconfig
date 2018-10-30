@@ -1,10 +1,14 @@
-[user]
-	name = Trendymen
-	email = 476212964@qq.com
 [core]
 	editor = code -w
 	autocrlf = true
+[user]
+	name = Trendymen
+	email = 476212964@qq.com
 [alias]
 	logg = log --graph --pretty=oneline --abbrev-commit
 	logs = log --abbrev-commit
 	co = checkout
+	pushg = pushg --progress
+	bcvv = branch -vv
+[color]
+	ui = true
