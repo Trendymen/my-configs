@@ -1,6 +1,7 @@
 [core]
-	editor = vim
+	editor = code --wait
 	autocrlf = input
+	excludesfile = C:\\Users\\liuzhuo\\Documents\\gitignore_global.txt
 [user]
 	name = Trendymen
 	email = 476212964@qq.com
@@ -20,3 +21,12 @@
 [diff]
 	tool = vimdiff3
 
+[difftool "sourcetree"]
+	cmd = '' \"$LOCAL\" \"$REMOTE\"
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
+[http]
+	proxy = http://127.0.0.1:41091
+[https]
+	proxy = https://127.0.0.1:41091

@@ -1,4 +1,8 @@
 #仅跟踪git和git-bash终端的配置文件
-!.gitconfig
-!.minttyrc
+!/.gitconfig
+!/.minttyrc
+!/.bashrc
+!.bash_profile
+!/.npmrc
+!/.yarnc
 /*
