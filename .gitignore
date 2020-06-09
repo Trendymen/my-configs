@@ -1,8 +1,8 @@
 #仅跟踪git和git-bash终端的配置文件
+/*
 !/.gitconfig
 !/.minttyrc
 !/.bashrc
 !.bash_profile
 !/.npmrc
-!/.yarnc
-/*
+!/Documents\PowerShell\Microsoft.PowerShell_profile.ps1
