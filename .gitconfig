@@ -1,11 +1,11 @@
 [core]
-	editor = code --wait
+	editor = \"E:\\Microsoft VS Code\\bin\\code\" --wait
 	autocrlf = input
 	eol = lf
 	excludesfile = C:\\Users\\liuzhuo\\Documents\\gitignore_global.txt
 [user]
 	name = Trendymen
-	email = 476212964@qq.com
+	email = liuzhuo@shoplazza.com
 [alias]
 	logg = log --graph --pretty=oneline --abbrev-commit
 	logs = log --abbrev-commit
@@ -27,7 +27,11 @@
 [mergetool "sourcetree"]
 	cmd = "'' "
 	trustExitCode = true
-[http]
-	proxy = http://127.0.0.1:41091
-[https]
-	proxy = https://127.0.0.1:41091
+[safe]
+	directory = E:/IDE-files/WebstormProjects/dragon-cli
+	directory = E:/IDE-files/WebstormProjects/opossum
+	directory = E:/IDE-files/WebstormProjects/dragon
+	directory = E:/IDE-files/WebstormProjects/sds
+	directory = E:/IDE-files/WebstormProjects/pademelon
+	directory = E:/IDE-files/WebstormProjects/serval
+	directory = E:/IDE-files/WebstormProjects/appserval
